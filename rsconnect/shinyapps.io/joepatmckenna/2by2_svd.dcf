@@ -1,0 +1,12 @@
+name: 2by2_svd
+title: 2by2_svd
+username:
+account: joepatmckenna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 253527
+bundleId: 1161051
+url: https://joepatmckenna.shinyapps.io/2by2_svd/
+when: 1515030604.54076
+asMultiple: FALSE
+asStatic: FALSE
